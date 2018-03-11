@@ -19,7 +19,7 @@ import android.widget.ScrollView;
 
 
 public class BounceTouchListener implements View.OnTouchListener {
-    private static final long DEFAULT_ANIMATION_TIME = 600L;
+    private static final long DEFAULT_ANIMATION_TIME = 555L;
 
     private boolean downCalled = false;
     private OnTranslateListener onTranslateListener;
